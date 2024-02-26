@@ -22,6 +22,6 @@ demo video: https://watch.wave.video/1eZ9rUbmIiZ6DKXk
     - **+10** Locate ship to the game board
  
   ## Complited Advanced Scope tasks:
-    - **+20** Codebase is separated (at least 4 modules)
+    - **+20** Codebase is separated
  
   ## Total score: 106
