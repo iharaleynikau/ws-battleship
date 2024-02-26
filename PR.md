@@ -1,3 +1,7 @@
+done 26.02.2024
+
+demo video: https://watch.wave.video/1eZ9rUbmIiZ6DKXk
+
 ## Complited Basic Scope tasks:
 
 - Websocket
