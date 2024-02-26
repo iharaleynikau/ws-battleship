@@ -8,7 +8,7 @@
 - User
     - **+5** Create user with password in temprorary database
     - **+5** User validation
-  - Room
+- Room
     - **+6** Create game room
     - **+6** Add user to game room
     - **+6** Start game
